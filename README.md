@@ -26,7 +26,7 @@ Olá! Sou técnico em Informática e atualmente cursando Sistemas de Informaçã
    <b>- Telefone:</b> (14) 99829-0971 <br>
    <b>- Instagram:</b> @thizanotto <br>
    <b>- Twitter:</b> @ThiagoZanottooo <br>
-   <b>- Email:</b>>thzanotto@gmail.com<br>
+   <b>- Email:</b>thzanotto@gmail.com<br>
    <b>- Linkedin:</b> linkedin.com/in/thiago-zanotto-pereira-714076194 <br>
 <br>
 
