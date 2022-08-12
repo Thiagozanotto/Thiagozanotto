@@ -1,15 +1,15 @@
 ### Olá! Eu sou o Thiago Zanotto Pereira
 <hr>
--  💻 Atualmente trabalho com criação de mídias para divulgação e promação front-end
--  🎓 Estudante de Sistemas de Informação
--  🤹 Habilidades em linguagem HTML, CSS, Javascript, Java, Python
+-  💻 Atualmente trabalho com criação de mídias para divulgação e promação front-end <br>
+-  🎓 Estudante de Sistemas de Informação <br>
+-  🤹 Habilidades em linguagem HTML, CSS, Javascript, Java, Python <br>
 
 ###
 
 <div>
 🤵 Sobre mim
 <br>
-Chavantes, SP
+Chavantes, SP<br>
 Olá! Sou técnico em Informática e atualmente cursando Sistemas de Informação na Universidade de Ourinhos (<i>Unifio</i>), e atualmenete estou me dedicando nos estudos para futuramente me tornar um desenvolvedor front-end.
 </div>
 
