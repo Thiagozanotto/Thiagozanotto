@@ -20,7 +20,7 @@ Olá! Sou técnico em Informática e atualmente cursando Sistemas de Informaçã
 </div>
 
 ###
-<hr>
+
 <div>
 🔎 Contatos<br>
    <b>- Telefone:</b> (14) 99829-0971 <br>
