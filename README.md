@@ -10,7 +10,7 @@
 🤵 Sobre mim
 <br>
 Chavantes, SP<br>
-Olá! Sou técnico em Informática e atualmente cursando Sistemas de Informação na Universidade de Ourinhos (<i>Unifio</i>), estou me dedicando nos estudos para futuramente me tornar um desenvolvedor front-end, trabalho com criação de mídias para divulgação e gerencio o <a href="https://instagram.com/garotasupermercado" target="_blank">Instragram</a> da empresa, realizo os engajamentos e publicações.
+Olá! Sou técnico em Informática e atualmente cursando Sistemas de Informação na Universidade de Ourinhos (<i>Unifio</i>), sou apaixonado em design e por isso a escolha de aprofundar meus estudos e me dedicando para futuramente ser um desenvolvedor front-end, trabalho com criação de mídias para divulgação e gerencio o <a href="https://instagram.com/garotasupermercado" target="_blank">Instragram</a> de uma empresa, realizo os engajamentos e publicações da página.
 </div>
 
 ###
