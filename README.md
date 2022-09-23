@@ -2,7 +2,7 @@
 <hr>
 -  💻 Atualmente trabalho com criação de mídias para divulgação e promação front-end <br>
 -  🎓 Estudante de Sistemas de Informação <br>
--  🤹 Habilidades em linguagem HTML, CSS, Javascript, Java, Python <br>
+-  🤹 Habilidades em linguagem HTML, CSS, Javascript, Java <br>
 
 ###
 
